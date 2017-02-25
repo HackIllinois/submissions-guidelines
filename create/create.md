@@ -2,7 +2,7 @@
 
 As an attendee in the Create track, your submission should consist of a devpost submission, github repository, as well as three specific files within that repository: Readme (readme.md), Credits (contributors.md), and Contributing Guide (contributing.md). And of course, your presence at the project expo.
 
-* README.md(https://github.com/HackIllinois/Submissions-Guidelines/blob/master/create/README_TEMPLATE.md)
+* [README.md](https://github.com/HackIllinois/Submissions-Guidelines/blob/master/create/README_TEMPLATE.md)
     * A __technical description__ of what your project is and does
     * Instructions on how to build/use your project
     * A link to the Contributors Guide

@@ -7,7 +7,7 @@ As an attendee in the Create track, your submission should consist of a devpost 
     * Instructions on how to build/use your project
     * A link to the Contributors Guide
 * __License your repository using a OSI approved License__ [OSI Approved Licenses](http://opensource.org/licenses)
-* __Create comprehensive github issues__ to represent future featurs or current issues/bugs
+* __Create comprehensive set of issues__ to represent future features and/or currentbugs
 * CONTRIBUTORS.md
     * who implemented what in the project and any mentors
 * CONTRIBUTING.md

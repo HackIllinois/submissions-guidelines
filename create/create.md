@@ -10,7 +10,7 @@ As an attendee in the Create track, your submission should consist of a devpost 
 * __Create comprehensive set of issues__ to represent future features and/or current bugs
 * CONTRIBUTORS.md
     * who implemented what in the project and any mentors
-* CONTRIBUTING.md
+* CONTRIBUTING.md [Template](https://github.com/HackIllinois/Submissions-Guidelines/blob/master/create/CONTRIBUTING_TEMPLATE.md)
     * __Create a Contributing Guide__
     * Explain the process of getting code merged into master to make it easier for contributors to submit additions to your project
 * Create a project on devpost [HackIllinois 2017 devpost](http://go.hackillinois.org/devpost2017)

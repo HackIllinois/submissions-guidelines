@@ -1,0 +1,22 @@
+# [NAME OF PROJECT]
+
+[PROJECT DESCRIPTION]
+  * [PROJECT FEATURES] 
+
+## [USAGE]
+  * [USAGE EXAMPLE]
+  
+## [BUILD INSTRUCTIONS]
+  * [PLATFORM 1]
+    * [BUILD EXAMPLE]
+  * [PLATFORM 2]
+    * [BUILD EXAMPLE]
+
+## [INTERFACES] _(if applicable)_ 
+
+## [OTHER SOURCES OF DOCUMENTATION]
+
+## Contributor Guide
+[LINK TO CONTRIBUTING.md]
+
+## License 

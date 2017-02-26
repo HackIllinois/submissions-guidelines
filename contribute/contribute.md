@@ -12,7 +12,7 @@ That's totally okay! You do *not* have to finish a PR to submit to HackIllinois.
 2. You completed a PR
 Awesome! In your gist, please link to your PR and also make sure you're following the contribution guidelines to the repo you are submitting your pull request to. 
   
-In both cases, we'd like you to include the following (in addition to any links) in the submitted gist:
+In both cases, we'd like you to include the following (in addition to any links) in the submission gist:
   * Issue(s) that you chose to work on.
   * Explanation of your decision making on approaching the issue
   * Discussion of your contribution's current status in the pipeline and what is remaining (if there is anything).

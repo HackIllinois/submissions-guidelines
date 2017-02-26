@@ -5,12 +5,12 @@
 ## Short Links to Important Resources:
 * docs: handbook / roadmap (you'll learn more about this in the roadmapping session)
 * bugs: issue tracker / bug report tool
-* comms: forum link, developer list, IRC/email
+* communcations: forum link, developer list, IRC/email, Slack, etc.
 ## Testing
-## Develeopement Environment details
+## Development environment details
 
 ## How to submit changes: Pull Request protocol etc. 
-_What might people expect in a response from the team_ 
+_What people might expect in a response from the core devs_ 
 
 ## How to report a bug: 
 * Templates: 

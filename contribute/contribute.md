@@ -1,6 +1,6 @@
 ##Contribute
 
-As an attendee in the Contribute track, your submission will consist of a [devpost](https://hackillinois2016s.devpost.com/) submission and a link to a GitHub gist.
+As an attendee in the Contribute track, your submission will consist of a [devpost](https://hackillinois-2017.devpost.com/) submission and a link to a GitHub gist.
 
 There are two cases:
 

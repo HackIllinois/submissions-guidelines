@@ -19,7 +19,7 @@ In both cases, we'd like you to include the following (in addition to any links)
   * Credit others contributors (teammates with what each person worked on).
 
 #### Examples:
-* https://github.com/Homebrew/brew/pull/1312
+* https://github.com/Homebrew/brew/pull/1312 (submission gist: https://gist.github.com/narendasan/a6450bc86c7a97b1cfffeea84f92d118) 
 
 
 Be prepared to answer: 

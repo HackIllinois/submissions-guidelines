@@ -3,6 +3,8 @@
 As an attendee in the Contribute track, your submission will consist of a [devpost](https://hackillinois2016s.devpost.com/) submission and a link to a GitHub gist.
 
 There are two cases:
+
+
 1. You did not complete a PR:
 That's totally okay! You do *not* have to finish a PR to submit to HackIllinois. In your submitted gist, please link to any work-in-progress code (a branch, forked repo, etc.) along with the content covered below.
 

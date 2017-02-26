@@ -6,7 +6,7 @@ There are two cases:
 
 
 1. You did not complete a PR:
-That's totally okay! You do *not* have to finish a PR to submit to HackIllinois. In your submitted gist, please link to any work-in-progress code (a branch, forked repo, etc.) along with the content covered below.
+That's totally okay! You do *not* have to finish a PR to submit to HackIllinois. In your submission gist, please link to any work-in-progress code (a branch, forked repo, etc.) along with the content covered below.
 
 
 2. You completed a PR

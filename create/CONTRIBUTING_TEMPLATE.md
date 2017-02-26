@@ -1,31 +1,34 @@
-#Contibuting to [PROJECT]
-
+#Contibuting to FindMeBot
 ## Welcome contributors to the project: 
 
 ## Short Links to Important Resources:
-* docs: handbook / roadmap (you'll learn more about this in the roadmapping session)
-* bugs: issue tracker / bug report tool
-* communcations: forum link, developer list, IRC/email, Slack, etc.
+* docs: https://www.microsoft.com/cognitive-services/en-us/face-api
+* bugs: Report bugs to krenner2@illinois.edu or ziweiba2@illinois.edu
+* communcations: https://app.groupme.com/join_group/29262968/FpQAdO
 ## Testing
+* We may have unit testing at a later date
 ## Development environment details
-
-## How to submit changes: Pull Request protocol etc. 
-_What people might expect in a response from the core devs_ 
+* Anything with Python works
+## How to submit changes: 
+* Make a pull request
+ * _Get Ziwei/Kevin + one other contributor to look at your changes. Two thumbs up = okay_
 
 ## How to report a bug: 
 * Templates: 
-  * _What to include in a bug report_
+  * _Name, issue, [optional] branch, [optional] file name_
 * First bugs for Contributors
-  * _What would be good bugs to start with?_
+  * _Recognizing wrong face_
+  * _Key doesn't work_
     
 ## New Feature Requirements
-_Any guidelines for proposing the feature_
+_Email Ziwei or Kevin, make a pull request_
 
 ## Style Guide / Coding conventions 
-
+_Comment your code! Put function params and returns, and try to comment sections in your methods too! It makes debugging easier_
 ## Code of Conduct
 
 ## Recognition model
-_How will contributors be recognized?_
+_We will have a page with a list of contributors_
 
 ## Where can I ask for help?
+_StackOverflow_

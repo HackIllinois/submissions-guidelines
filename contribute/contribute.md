@@ -1,6 +1,6 @@
-##Contribute
+##If You Contributed to a Project
 
-As an attendee in the Contribute track, your submission will consist of a [devpost](https://hackillinois-2017.devpost.com/) submission and a link to a GitHub gist.
+As an attendee who made open source contributions, your submission will consist of a [devpost](https://hackillinois-2017.devpost.com/) submission and a link to a GitHub gist.
 
 There are two cases:
 

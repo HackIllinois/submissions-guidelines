@@ -5,6 +5,6 @@
 How to submit your project for HackIllinois 
 
 * If you made an Open Source project click [here](https://github.com/HackIllinois/Submissions-Guidelines/tree/master/create)
-* If you made an Open Source contribution click[here](https://github.com/HackIllinois/Submissions-Guidelines/tree/master/contribute)
+* If you made an Open Source contribution click [here](https://github.com/HackIllinois/Submissions-Guidelines/tree/master/contribute)
 
 Ping @rishidesai or @narendasan in #submissions-questions on the [HackIllinois 2018 Slack](hackillinois-2018.slack.com) with any questions

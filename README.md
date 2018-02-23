@@ -5,7 +5,7 @@ Ping @rishidesai or @narendasan in #submissions-questions on the [HackIllinois 2
 
 ## Your DevPost Submission
 
-### Create a project on devpost [HackIllinois 2018 devpost](http://go.hackillinois.org/devpost2017)
+### Create a project on devpost [HackIllinois 2018 devpost](https://hackillinois-2018.devpost.com)
 
 - Briefly fill out the description. (All other sections are up to your discretion.)
 - __Make sure to include a link to your source code in the "try it out" section__

@@ -14,8 +14,9 @@ Ping @rishidesai or @narendasan in #submissions-questions on the [HackIllinois 2
 
 ### [If You Contributed to an Already Existing Project (Repo)](#contribute)
 
-As an attendee who made open source contributions, your submission will consist of a [devpost](https://hackillinois-2018.devpost.com/) submission with a link to a GitHub gist.
+In addition to the content above, we also would like you to link a GitHub gist with some additional information in your devpost submission.
 
+#### Gist Content
 There are two cases:
 
 1. You did not complete a PR:
@@ -32,9 +33,9 @@ In both cases, we'd like you to include the following (in addition to any links)
 - Issue(s) that you chose to work on.
 - Explanation of your decision making on approaching the issue
 - Discussion of your contribution's current status in the pipeline and what is remaining (if there is anything).
-- Credit others contributors (teammates with what each person worked on).
+- Credit others contributors (teammates with what each person worked on, mentors, etc.).
 
-#### Examples:
+##### Examples:
 
 - submission gist: https://gist.github.com/narendasan/a6450bc86c7a97b1cfffeea84f92d118
 
@@ -43,8 +44,7 @@ for completed PR: https://github.com/Homebrew/brew/pull/1312
 Be prepared to talk about how the specific contribution process for your project played a role in the development of the contribution. If your PR was merged in and you had to make edits in your contribution before it was approved, explain what was changed and why.
 
 ### [If You Started Something New (New Repo)](#create)
-
-As an attendee who developed a new project, your submission should consist of a [devpost](https://hackillinois-2018.devpost.com/) submission linking to your public code repository which should include at least four specific files: README.md, LICENSE, CONTRIBUTORS.md and CONTRIBUTING.md. 
+If your code is hosted in a new repo, your submission should consist of a [devpost](https://hackillinois-2018.devpost.com/) submission linking to your public code repository which should include at least four specific files: README.md, LICENSE (there maybe cases where this is not applicable, if so tell us the reason in your devpost submission), CONTRIBUTORS.md and CONTRIBUTING.md. 
 
 #### 1. README.md [Template](https://github.com/HackIllinois/Submissions-Guidelines/blob/master/templates/README_TEMPLATE.md)
 
@@ -52,14 +52,14 @@ As an attendee who developed a new project, your submission should consist of a 
 - Instructions on how to build, install, and use your project
 - A link to the Contributors Guide
 
-##### Examples:
+   ##### Examples:
 
-- https://github.com/rstacruz/hicat
-- http://svn.apache.org/repos/asf/httpd/httpd/trunk/README
-- https://github.com/python/cpython
-- https://github.com/airbnb/lottie-ios
-- https://github.com/hackillinois/api-2017
-- https://github.com/rust-lang-nursery/rust-cookbook
+   - https://github.com/rstacruz/hicat
+   - http://svn.apache.org/repos/asf/httpd/httpd/trunk/README
+   - https://github.com/python/cpython
+   - https://github.com/airbnb/lottie-ios
+   - https://github.com/hackillinois/api-2017
+   - https://github.com/rust-lang-nursery/rust-cookbook
 
 #### 2. LICENSE
 
@@ -87,9 +87,6 @@ As an attendee who developed a new project, your submission should consist of a 
 - __Incorporate tests__ into your project
 - Provide a link to a __packaged release__
 - Proper use of source control
-
-
-
 
 
 ## Expo

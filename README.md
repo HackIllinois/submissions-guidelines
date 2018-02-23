@@ -10,7 +10,7 @@ Ping @rishidesai or @narendasan in #submissions-questions on the [HackIllinois 2
 - Briefly fill out the description. (All other sections are up to your discretion.)
 - __Make sure to include a link to your source code repository in the "try it out" section__
 - If you are submitting to any particular prizes, make sure to describe why you believe your submission is eligible, and also mark them on your submission.
-- Then follow the instructions below to complete your submission depending on whether you [contributed to an already existing project or repo](#if-you-contributed-to-an-already-existing-project-repo) or [you created a brand new repo to host your work](#create)
+- Then follow the instructions below to complete your submission depending on whether you [contributed to an already existing project or repo](#if-you-contributed-to-an-already-existing-project-repo) or [you created a brand new repo to host your work](#if-you-started-something-new-new-repo)
 
 ### [If You Contributed to an Already Existing Project (Repo)](#contribute)
 

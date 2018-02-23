@@ -86,7 +86,7 @@ If your code is hosted in a new repo, your submission should consist of a [devpo
 - Create comprehensive set of __issues__ to represent future features and/or current bugs
 - __Incorporate tests__ into your project
 - Provide a link to a __packaged release__
-- Proper use of source control
+- Proper use of source control (using Pull Requests, relevant commit messages, and use of branching)
 
 
 ## Expo

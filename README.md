@@ -1,4 +1,4 @@
-# Submissions-Guidelines
+# Submissions Guide
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 
@@ -9,9 +9,16 @@ How to submit your project for HackIllinois
 
 Ping @rishidesai or @narendasan in #submissions-questions on the [HackIllinois 2018 Slack](hackillinois-2018.slack.com) with any questions
 
+## Your DevPost Submission
 
+### Create a project on devpost [HackIllinois 2018 devpost](http://go.hackillinois.org/devpost2017)
 
-## If You Contributed to an Already Existing Project (Repo)
+- Briefly fill out the description. (All other sections are up to your discretion.)
+- __Make sure to include a link to your source code repository in the "try it out" section__
+- If you are submitting to any particular prizes, make sure to describe why you believe your submission is eligible, and also mark them on your submission.
+- Then follow the instructions below to complete your submission depending on whether you [contributed to an already existing project or repo](#contribute) or [you created a brand new repo to host your work](#create)
+
+### [If You Contributed to an Already Existing Project (Repo)](#contribute)
 
 As an attendee who made open source contributions, your submission will consist of a [devpost](https://hackillinois-2018.devpost.com/) submission with a link to a GitHub gist.
 
@@ -41,19 +48,17 @@ for completed PR: https://github.com/Homebrew/brew/pull/1312
 
 Be prepared to talk about how the specific contribution process for your project played a role in the development of the contribution. If your PR was merged in and you had to make edits in your contribution before it was approved, explain what was changed and why.
 
-
-
-# If You Started Something New
+###[If You Started Something New (New Repo)](#create)
 
 As an attendee who developed a new project, your submission should consist of a [devpost](https://hackillinois-2018.devpost.com/) submission linking to your public code repository which should include at least four specific files: README.md, LICENSE, CONTRIBUTORS.md and CONTRIBUTING.md. 
 
-### 1. README.md [Template](https://github.com/HackIllinois/Submissions-Guidelines/blob/master/templates/README_TEMPLATE.md)
+#### 1. README.md [Template](https://github.com/HackIllinois/Submissions-Guidelines/blob/master/templates/README_TEMPLATE.md)
 
 - A __technical description__ of what your project is (functionality, purpose - if any, etc.)
 - Instructions on how to build, install, and use your project
 - A link to the Contributors Guide
 
-#### Examples:
+##### Examples:
 
 - https://github.com/rstacruz/hicat
 - http://svn.apache.org/repos/asf/httpd/httpd/trunk/README
@@ -62,27 +67,27 @@ As an attendee who developed a new project, your submission should consist of a 
 - https://github.com/hackillinois/api-2017
 - https://github.com/rust-lang-nursery/rust-cookbook
 
-### 2. LICENSE
+#### 2. LICENSE
 
 - Add a license to your repository using an [OSI approved License](http://opensource.org/licenses)
 
-### 3. CONTRIBUTORS.md
+#### 3. CONTRIBUTORS.md
 
 - Enumerate who was on your team, their emails, who implemented what in the project and any mentors or other significant members of the group
 
-### 4. CONTRIBUTING.md [Template](https://github.com/HackIllinois/Submissions-Guidelines/blob/master/templates/CONTRIBUTING_TEMPLATE.md)
+#### 4. CONTRIBUTING.md [Template](https://github.com/HackIllinois/Submissions-Guidelines/blob/master/templates/CONTRIBUTING_TEMPLATE.md)
 
 - __Create a Contributing Guide__
 - Explain the process of getting code merged into master to make it easier for contributors to submit additions to your project
 
-  #### Examples
+  ##### Examples
 
   - https://github.com/Homebrew/homebrew-core/blob/master/CONTRIBUTING.md
   - https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md
   - https://github.com/redox-os/redox/blob/master/CONTRIBUTING.md
   - https://github.com/rust-lang-nursery/rust-cookbook/blob/master/CONTRIBUTING.md
 
-#### *Bonus:*
+##### *Bonus:*
 
 - Create comprehensive set of __issues__ to represent future features and/or current bugs
 - __Incorporate tests__ into your project
@@ -91,17 +96,9 @@ As an attendee who developed a new project, your submission should consist of a 
 
 
 
-## Your DevPost Submission
 
-### Create a project on devpost [HackIllinois 2017 devpost](http://go.hackillinois.org/devpost2017)
-
-- Briefly fill out the description. (All other sections are up to your discretion.)
-- __Make sure to include a link to your source code repository in the "try it out" section__
-- If you are submitting to any particular prizes, make sure to describe why you believe your submission is eligible, and also mark them on your submission.
 
 ## Expo
-
-
 
 ### Be ready to explain during the project expo:
 

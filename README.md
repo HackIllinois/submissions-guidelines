@@ -1,12 +1,6 @@
 # Submissions Guide
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-
-How to submit your project for HackIllinois 
-
-* If you made an Open Source project click [here](https://github.com/HackIllinois/Submissions-Guidelines/tree/master/create)
-* If you made an Open Source contribution click [here](https://github.com/HackIllinois/Submissions-Guidelines/tree/master/contribute)
-
 Ping @rishidesai or @narendasan in #submissions-questions on the [HackIllinois 2018 Slack](hackillinois-2018.slack.com) with any questions
 
 ## Your DevPost Submission
@@ -16,7 +10,7 @@ Ping @rishidesai or @narendasan in #submissions-questions on the [HackIllinois 2
 - Briefly fill out the description. (All other sections are up to your discretion.)
 - __Make sure to include a link to your source code repository in the "try it out" section__
 - If you are submitting to any particular prizes, make sure to describe why you believe your submission is eligible, and also mark them on your submission.
-- Then follow the instructions below to complete your submission depending on whether you [contributed to an already existing project or repo](#contribute) or [you created a brand new repo to host your work](#create)
+- Then follow the instructions below to complete your submission depending on whether you [contributed to an already existing project or repo](#if-you-contributed-to-an-already-existing-project-repo) or [you created a brand new repo to host your work](#create)
 
 ### [If You Contributed to an Already Existing Project (Repo)](#contribute)
 
@@ -48,7 +42,7 @@ for completed PR: https://github.com/Homebrew/brew/pull/1312
 
 Be prepared to talk about how the specific contribution process for your project played a role in the development of the contribution. If your PR was merged in and you had to make edits in your contribution before it was approved, explain what was changed and why.
 
-###[If You Started Something New (New Repo)](#create)
+### [If You Started Something New (New Repo)](#create)
 
 As an attendee who developed a new project, your submission should consist of a [devpost](https://hackillinois-2018.devpost.com/) submission linking to your public code repository which should include at least four specific files: README.md, LICENSE, CONTRIBUTORS.md and CONTRIBUTING.md. 
 

@@ -1,11 +1,11 @@
 # Submissions Guide
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-Ping @rishidesai or @narendasan in #submissions-questions on the [HackIllinois 2018 Slack](hackillinois-2018.slack.com) with any questions
+Ping @rishidesai or @justin.yang in #submissions-questions on the [HackIllinois 2019 Slack](hackillinois-2019.slack.com) with any questions
 
 ## Your DevPost Submission
 
-### Create a project on devpost [HackIllinois 2018 devpost](https://hackillinois-2018.devpost.com)
+### Create a project on devpost [HackIllinois 2019 devpost](https://hackillinois2019.devpost.com)
 
 - Briefly fill out the description. (All other sections are up to your discretion.)
 - __Make sure to include a link to your source code in the "try it out" section__
